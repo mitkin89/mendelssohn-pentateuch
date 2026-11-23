@@ -6,6 +6,7 @@ authors:
   - family-names: Itkin
     given-names: Igor Mendel
 version: "1.0.0"
+doi: "10.5281/zenodo.24466528"
 date-released: "2026-11-23"
 license: CC-BY-4.0
 repository-code: "https://github.com/mitkin89/mendelssohn-pentateuch"

@@ -1,5 +1,7 @@
 # Moses Mendelssohns Pentateuch – Übersetzung und Biur
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24466528.svg)](https://doi.org/10.5281/zenodo.24466528)
+
 [English](README.md) · **Deutsch**
 
 Moses Mendelssohns deutsche Übersetzung der fünf Bücher Mose und der hebräische Kommentar, der sie begleitete, der **Biur**, nach den gedruckten Ausgaben transkribiert:
@@ -28,5 +30,7 @@ Aufbau und Auszeichnung sind in der [englischen Fassung](README.md#format) besch
 - Transkriptionen, strukturierte Daten, Wortzuordnung und Prüflisten: **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de)**, siehe [LICENSE.md](LICENSE.md). Die hebräische Wortzählung bezieht sich auf die Open Scriptures Hebrew Bible (CC BY 4.0).
 
 ## Zitieren
+
+Itkin, Igor Mendel (Hg.): *Moses Mendelssohn's Pentateuch – translation and Biur*, Version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24466528
 
 Siehe [CITATION.cff](CITATION.cff). Jede Version wird auf Zenodo mit eigener DOI archiviert.
