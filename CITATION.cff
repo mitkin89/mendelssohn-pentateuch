@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite them as below."
+type: dataset
+title: "Moses Mendelssohn's Pentateuch – translation and Biur (Vienna 1795; Dessau 1815)"
+authors:
+  - family-names: Itkin
+    given-names: Igor Mendel
+version: "1.0.0"
+date-released: "2026-11-23"
+license: CC-BY-4.0
+repository-code: "https://github.com/mitkin89/mendelssohn-pentateuch"
+keywords: [Mendelssohn, Biur, Netivot ha-Shalom, Pentateuch, Torah, German translation, Haskalah, Judeo-German, interlinear]
+references:
+  - type: book
+    title: "Sefer Netivot ha-Shalom"
+    authors:
+      - family-names: Mendelssohn
+        given-names: Moses
+    year: 1795
+    location:
+      name: Vienna
+  - type: book
+    title: "Die fünf Bücher Mose"
+    authors:
+      - family-names: Mendelssohn
+        given-names: Moses
+    year: 1815
+    location:
+      name: Dessau

@@ -1,0 +1,11 @@
+{
+  "title": "Moses Mendelssohn's Pentateuch – translation and Biur (Vienna 1795; Dessau 1815)",
+  "upload_type": "dataset",
+  "description": "Transcription of Moses Mendelssohn's German translation of the Pentateuch and the Hebrew commentary Biur: the Biur (Sefer Netivot ha-Shalom, Vienna 1795; 4,126 verses with comment, by Mendelssohn, Solomon Dubno, Naphtali Herz Wessely, Aaron Jaroslaw and Herz Homberg), the translation in Hebrew letters (Taitsch, Vienna 1795; 5,847 verses), the translation in Latin script (Die fünf Bücher Mose, Dessau 1815; 5,846 verses), and a word-by-word alignment of the Dessau text with the Hebrew (Westminster Leningrad Codex; 81,190 segments), with review and correction lists. Structured JSON by verse. Transcribed with Claude (Anthropic, 2026) from page images in eScriptorium; a working transcription, not a critical edition. Prepared for the Safran library (https://github.com/mitkin89/Safran).",
+  "creators": [{"name": "Itkin, Igor Mendel"}],
+  "license": "cc-by-4.0",
+  "keywords": ["Mendelssohn", "Biur", "Netivot ha-Shalom", "Pentateuch", "German translation", "Haskalah", "Judeo-German", "interlinear"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/mitkin89/Safran", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}
