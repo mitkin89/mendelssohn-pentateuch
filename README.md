@@ -1,5 +1,11 @@
 # Moses Mendelssohn's Pentateuch – translation and Biur
 
+<p align="center">
+  <img src="portraits/mendelssohn.jpg" alt="Moses Mendelssohn" title="Moses Mendelssohn" height="180">
+  <br>
+  <sub>Moses Mendelssohn</sub>
+</p>
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24466528.svg)](https://doi.org/10.5281/zenodo.24466528)
 
 **English** · [Deutsch](README.de.md)
